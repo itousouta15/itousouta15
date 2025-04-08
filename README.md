@@ -38,6 +38,7 @@
 
 ## 📫 找到我：
 - Blog: [itou-souta.github.io](https://itou-souta.github.io)  
-- GitHub: [@itou-souta](https://github.com/itou-souta)
-
+- Instagram: [@itou.souta15](https://www.instagram.com/itou.souta15?igsh=b2tuejdlNWRjczI5)
+- Threads: [@itou.souta15](https://www.threads.net/@itou.souta15)
+- discord: [そたの小天地](https://discord.gg/uAX6h9VmA4)
 ---
