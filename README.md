@@ -1,16 +1,16 @@
-<!-- GitHub README for Itou Souta -->
+<!-- GitHub README for Itou Souta (English version) -->
 
-# ✨cout<<"hello! world\n"✨
+# ✨cout << "hello! world\n";✨
 ## 🌟 I'm Itou Souta 🌟
-> 「寫程式的時候，世界會安靜下來。」
+> "The world goes quiet when I write code."
 
-歡迎來到我的 GitHub！
-這裡是我放置各種實驗、練習與學習紀錄的基地。  
-我是一名熱愛 **資訊安全**、**C++ 開發** 和 **前端技術** 的高中生。
+Welcome to my GitHub!  
+This is the home base where I store experiments, practice projects, and learning notes.  
+I'm a high school student passionate about **cybersecurity**, **C++ development**, and **frontend technologies**.
 
 ---
 
-## 🛠️ 技能技能！Skills & Tools
+## 🛠️ Skills & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -22,23 +22,25 @@
 
 ---
 
-## 🔧 技能探索中：
-- ⌨️ C++
-- 🌐 前端開端
-- 🚀 靜態網站多語系架構實驗中
-- 🌍 三語使用者：中文（母語）、English（閱讀可）、日本語（閱讀可）
----
-
-## 📈 正在進行的任務：
-- 精實C語言 & 分享學習筆記  
-- 學習資安基礎 (CTF & DDoS)(?
-- 深入前端框架 & 嘗試整合 AI 工具
+## 🔧 Currently Exploring:
+- ⌨️ C++ (competitive and daily use)
+- 🌐 Frontend development
+- 🚀 Multilingual static websites with Hexo
+- 🌍 Trilingual: Mandarin (native), English (reading OK), Japanese (reading OK)
 
 ---
 
-## 📫 找到我：
+## 📈 Ongoing Projects:
+- Mastering C language & writing technical notes  
+- Learning cybersecurity basics (CTF & DDoS experiments... maybe?)  
+- Diving into frontend frameworks + experimenting with AI integration  
+
+---
+
+## 📫 Find Me:
 - Blog: [itou-souta.github.io](https://itou-souta.github.io)  
-- Instagram: [@itou.souta15](https://www.instagram.com/itou.souta15?igsh=b2tuejdlNWRjczI5)
-- Threads: [@itou.souta15](https://www.threads.net/@itou.souta15)
-- discord: [そたの小天地](https://discord.gg/uAX6h9VmA4)
+- Instagram: [@itou.souta15](https://www.instagram.com/itou.souta15?igsh=b2tuejdlNWRjczI5)  
+- Threads: [@itou.souta15](https://www.threads.net/@itou.souta15)  
+- Discord server: [Souta’s Little World](https://discord.gg/uAX6h9VmA4)
+
 ---
