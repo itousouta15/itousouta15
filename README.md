@@ -1,7 +1,7 @@
 <!-- GitHub README for Itou Souta -->
 
 # ✨cout<<"hello! world\n"✨
-# 🌟 I'm Itou Souta 🌟
+## 🌟 I'm Itou Souta 🌟
 > 「寫程式的時候，世界會安靜下來。」
 
 歡迎來到我的 GitHub！這裡是我放置各種實驗、練習與學習紀錄的基地。  
