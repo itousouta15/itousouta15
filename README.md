@@ -1,6 +1,6 @@
 <!-- GitHub README for Itou Souta (English version) -->
 
-# ✨cout << "hello! world\n";✨
+# cout << "hello! world\n";✨
 ## 🌟 I'm Itou Souta 🌟
 > "The world goes quiet when I write code."
 
@@ -26,7 +26,7 @@ I'm a high school student passionate about **cybersecurity**, **C++ development*
 - ⌨️ C++ (competitive and daily use)
 - 🌐 Frontend development
 - 🚀 Multilingual static websites with Hexo
-- 🌍 Trilingual: Mandarin (native), English (reading OK), Japanese (reading OK)
+- 🌍 Trilingual: Mandarin (native), English (reading), Japanese (reading)
 
 ---
 
