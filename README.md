@@ -49,7 +49,7 @@ I'm a high school student passionate about **cybersecurity**, **C++ development*
 ---
 
 ## 📫 Find Me:
-- Blog: [itou-souta.github.io](https://itou-souta.github.io)  
+- Blog: [itousouta15.github.io](https://itousouta15.github.io)  
 - Instagram: [@itou.souta15](https://www.instagram.com/itou.souta15?igsh=b2tuejdlNWRjczI5)  
 - Threads: [@itou.souta15](https://www.threads.net/@itou.souta15)  
 - Discord server: [Souta’s Little World](https://discord.gg/uAX6h9VmA4)
