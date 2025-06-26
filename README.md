@@ -95,9 +95,8 @@ If you have interesting projects, questions, or just want to chat about tech, fe
 
 - 📝 [Blog](https://itousouta15.github.io) — Tech notes & learning journey
 - 📷 [Instagram](https://www.instagram.com/itou.souta15?igsh=b2tuejdlNWRjczI5) — Life & creativity
-- 💬 [Discord: Souta’s Little World](https://discord.gg/uAX6h9VmA4) — Join the chat
 - 🧵 [Threads](https://www.threads.net/@itou.souta15)
-
+- 💬 [Discord: Souta’s Little World](https://discord.gg/WD6gVTRQWA) — Join the chat
 ---
 
 ![itousouta15's Stats](https://github-readme-stats.vercel.app/api?username=itousouta15&theme=default&show_icons=true&hide_border=true&count_private=true)
