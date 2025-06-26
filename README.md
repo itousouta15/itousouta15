@@ -5,7 +5,7 @@
 > “The world goes quiet when I write code.”
 
 Welcome to my digital playground!  
-I'm a **first-year high school student from Taiwan** with a passion for **C++**, **web development**, and **cybersecurity**.  
+I'm a **high school student from Taiwan** with a passion for **C++**, **web development**, and **cybersecurity**.  
 Here, I share my experiments, learning notes, and personal projects. I believe that every line of code is a step toward understanding the world—and myself—a little better.
 
 ---
