@@ -122,7 +122,6 @@ If you have interesting projects, questions, or just want to chat about tech, fe
 ---
 
 ![itousouta15's Stats](https://github-readme-stats.vercel.app/api?username=itousouta15&theme=default&show_icons=true&hide_border=true&count_private=true)
-![itousouta15's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itousouta15&theme=default&hide_border=true)
 
 ---
 
