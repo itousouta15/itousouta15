@@ -6,7 +6,6 @@ Welcome to my digital playground!
 I'm a **high school student from Taiwan** passionate about **C++**, **web development**, and **cybersecurity**.  
 Here, I share my projects, experiments, and learning notes. For me, every line of code is a step toward understanding both the world — and myself — a little better.  
 
----
 
 ## 🌟 About Me
 - 🏫 High school student (Grade 11) from Taiwan  
@@ -15,7 +14,6 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - 💡 Fascinated by the intersection of **code**, **security**, and **creativity**  
 - 📚 Passionate lifelong learner, always exploring new technical horizons  
 
----
 
 ## 🎓 Activities & Achievements
 - **Scrapyard Taiwan Hackathon – 9th Place**  
@@ -24,7 +22,6 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - **5th NCPC (National Computer Proficiency Contest) – Information Technology Division**  
 - **3rd THJCC – Network Administration Division**  
 
----
 
 ## 🛠 Tech Toolbox
 
@@ -75,7 +72,6 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 
----
 
 ## 🚀 What I'm Currently Exploring
 - 🔥 Advancing my **C++** skills for both competitive programming & practical projects  
@@ -85,7 +81,6 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - 📝 Documenting my technical notes and sharing them on my blog  
 - 💡 Always seeking creative ways to blend **technology + imagination**  
 
----
 
 ## 📚 My Learning Journey
 I first started coding out of curiosity — wanting to know how games and websites were made.  
@@ -95,7 +90,6 @@ Now, I enjoy tackling coding contests, solving CTF challenges, and building proj
 Recently, I’ve been exploring frontend frameworks, **static site generators**, and **AI tools**.  
 My ultimate goal: to craft secure, useful, and beautiful digital experiences for people.  
 
----
 
 ## 🎯 Goals for 2025
 - 🏆 Compete in more **programming contests** and **CTFs**  
@@ -104,7 +98,6 @@ My ultimate goal: to craft secure, useful, and beautiful digital experiences for
 - 🛡️ Contribute to **open-source cybersecurity tools**  
 - 🤝 Collaborate with like-minded developers and communities  
 
----
 
 ## 💬 Philosophy
 > *“Every bug is a lesson.  
@@ -114,7 +107,6 @@ My ultimate goal: to craft secure, useful, and beautiful digital experiences for
 I believe in open knowledge, sharing ideas, and staying endlessly curious.  
 If you’re working on something exciting or just want to talk tech — let’s connect!  
 
----
 
 ## 📫 Connect with Me
 - 📝 [Blog](https://itousouta15.github.io) — My technical notes & learning journey  
@@ -122,7 +114,6 @@ If you’re working on something exciting or just want to talk tech — let’s 
 - 🧵 [Threads](https://www.threads.net/@itou.souta15)  
 - 💬 [Discord: Souta’s Little World](https://discord.gg/WD6gVTRQWA) — Join the community  
 
----
 
 ![itousouta15's Stats](https://github-readme-stats.vercel.app/api?username=itousouta15&theme=default&show_icons=true&hide_border=true&count_private=true)
 
