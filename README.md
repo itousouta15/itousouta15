@@ -21,7 +21,7 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - **AIS3 2025 – Software, Web, and ToI Security (Level 1)**  
 - **5th NCPC (National Computer Proficiency Contest) – Information Technology Division**  
 - **3rd THJCC – Network Administration Division**  
-
+- **2nd DLHIT – Instructor for OJ System Setup and Web Security & Programming**
 
 ## 🛠 Tech Toolbox
 
@@ -64,8 +64,6 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF7139?style=flat&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-1C3552?style=flat&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-000000?style=flat)
-![Snort](https://img.shields.io/badge/Snort-F80000?style=flat)
 
 **Data & Visualization**  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
