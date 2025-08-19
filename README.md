@@ -19,7 +19,7 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - **Scrapyard Taiwan Hackathon – 9th Place**  
 - **AIS3 Pre-exam 2025 – Ranked #67**  
 - **AIS3 2025 – Software, Web, and ToI Security (Level 1)**  
-- **5th NCPC (National Computer Proficiency Contest) – Information Technology Division**  
+- **5th SCAICT – Information Technology Division**  
 - **3rd THJCC – Network Administration Division**  
 - **2nd DLHIT – Instructor for OJ System Setup and Web Security & Programming**
 
