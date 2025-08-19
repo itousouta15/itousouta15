@@ -2,7 +2,7 @@
 ## 👋 Hi, I'm Itou Souta!
 > *“The world goes quiet when I write code.”*  
 
-Welcome to my digital playground!  
+### Welcome to my digital playground!  
 I'm a **high school student from Taiwan** passionate about **C++**, **web development**, and **cybersecurity**.  
 Here, I share my projects, experiments, and learning notes. For me, every line of code is a step toward understanding both the world — and myself — a little better.  
 
@@ -22,6 +22,11 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - **5th SCAICT – Information Technology Division**  
 - **3rd THJCC – Network Administration Division**  
 - **2nd DLHIT – Instructor for OJ System Setup and Web Security & Programming**
+- **1nd std_dllm - Art Editor**
+
+## 🗓️ My Coding Roadmap
+- **2024**: Start C++, join first CTF
+- **2025**: Web security, launch blog, hackathon awards
 
 ## 🛠 Tech Toolbox
 
@@ -65,29 +70,16 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 ![Metasploit](https://img.shields.io/badge/Metasploit-1C3552?style=flat&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
 
-**Data & Visualization**  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+## 💬 Philosophy
+> *“Every bug is a lesson.  
+> Every project is a story.  
+> The best way to learn is to build, break, and rebuild.”*
 
-
-## 🚀 What I'm Currently Exploring
-- 🔥 Advancing my **C++** skills for both competitive programming & practical projects  
-- 🌐 Developing responsive websites with **HTML, CSS, JavaScript, and Hexo**  
-- 🕵️‍♂️ Diving into cybersecurity: CTF challenges, ethical hacking tools, and network analysis  
-- 🤖 Experimenting with **AI integration** in automation & web projects  
-- 📝 Documenting my technical notes and sharing them on my blog  
-- 💡 Always seeking creative ways to blend **technology + imagination**  
-
-
-## 📚 My Learning Journey
-I first started coding out of curiosity — wanting to know how games and websites were made.  
-That curiosity grew into a passion for **algorithms**, **competitive programming**, and **cybersecurity**.  
-Now, I enjoy tackling coding contests, solving CTF challenges, and building projects that balance functionality with creativity.  
-
-Recently, I’ve been exploring frontend frameworks, **static site generators**, and **AI tools**.  
-My ultimate goal: to craft secure, useful, and beautiful digital experiences for people.  
-
+## 🤝 Communities & Clubs
+- SCAICT — (https://scaict.org/)
+- THJCC — (IG: @thjcc.tw)
+- stddllm — (IG: @std_dllm_)
+- DLHIT — (IG: @dlhit_)
 
 ## 🎯 Goals for 2025
 - 🏆 Compete in more **programming contests** and **CTFs**  
@@ -96,21 +88,16 @@ My ultimate goal: to craft secure, useful, and beautiful digital experiences for
 - 🛡️ Contribute to **open-source cybersecurity tools**  
 - 🤝 Collaborate with like-minded developers and communities  
 
-
-## 💬 Philosophy
-> *“Every bug is a lesson.  
-> Every project is a story.  
-> The best way to learn is to build, break, and rebuild.”*  
-
-I believe in open knowledge, sharing ideas, and staying endlessly curious.  
-If you’re working on something exciting or just want to talk tech — let’s connect!  
-
+## 🤗 Open to Collaborate On
+- Security research (CTF/Web/AI X Security)
+- Open source tools
+- Joint blog or tech talks (Mandarin/English)
 
 ## 📫 Connect with Me
-- 📝 [Blog](https://itousouta15.github.io) — My technical notes & learning journey  
-- 📷 [Instagram](https://www.instagram.com/itou.souta15?igsh=b2tuejdlNWRjczI5) — Life & creativity  
-- 🧵 [Threads](https://www.threads.net/@itou.souta15)  
-- 💬 [Discord: Souta’s Little World](https://discord.gg/WD6gVTRQWA) — Join the community  
+- Blog: [GitHub Pages](https://itousouta15.github.io) (My technical notes & learning journey)  
+- Instagram: [itou.souta15](https://www.instagram.com/itou.souta15) (Life & creativity)  
+- Threads: [@itou.souta15](https://www.threads.net/@itou.souta15)  
+- Discord https://discord.gg/WD6gVTRQWA
 
 
 ![itousouta15's Stats](https://github-readme-stats.vercel.app/api?username=itousouta15&theme=default&show_icons=true&hide_border=true&count_private=true)
