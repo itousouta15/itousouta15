@@ -20,9 +20,9 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - **AIS3 Pre-exam 2025 – Ranked #67**  
 - **AIS3 2025 – Software, Web, and ToI Security**  
 - **5th SCAICT – Information Technology Division**  
-- **3rd THJCC – Network Administration Division**  
-- **2nd DLHIT – Instructor for OJ System Setup and Web Security & Programming**
-- **1nd std_dllm - Art Editor**
+- **3th THJCC – Network Administration Division**  
+- **2th DLHIT – Instructor for OJ System Setup and Web Security & Programming**
+- **1th std_dllm - Art Editor**
 
 ## 🗓️ My Coding Roadmap
 - **2024**: Start C++, join first CTF
