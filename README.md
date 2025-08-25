@@ -27,7 +27,7 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - **AIS3 2025: Software, Web, and ToI Security - 1**
 - **Feng Chia University: Smart Chip and Sensor Applications**
 - **Feng Chia University: Simple AI Control and Design**
-- **SCAICT 2025: "Keep Going Despite Difficulties"**
+- **SCAICT 2025 : "資難而上"**
 
 ### 🌐 Communities:
 - **5th SCAICT 中部高中電資社團聯合會議 — Information Division**
