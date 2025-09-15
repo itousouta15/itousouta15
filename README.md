@@ -28,6 +28,8 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - **Feng Chia University: Smart Chip and Sensor Applications**
 - **Feng Chia University: Simple AI Control and Design**
 - **SCAICT 2025 : "資難而上"**
+- - **AIS3 Club 2025**
+- **Faust Game Jam 2025**
 
 ### 🌐 Communities:
 - **5th SCAICT 中部高中電資社團聯合會議 — Information Division Leader and Vice President**
