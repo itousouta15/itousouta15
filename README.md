@@ -28,7 +28,7 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - **Feng Chia University: Smart Chip and Sensor Applications**
 - **Feng Chia University: Simple AI Control and Design**
 - **SCAICT 2025 : "資難而上"**
-- - **AIS3 Club 2025**
+- **AIS3 Club 2025**
 - **Faust Game Jam 2025**
 
 ### 🌐 Communities:
