@@ -24,7 +24,7 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - **AIS3 Pre-exam 2025 — Rank 67**
 
 ### 📚 Courses:
-- **AIS3 2025: Software, Web, and IOT Security - 1**
+- **AIS3 2025: Software, Web, and IoT Security - 1**
 - **Feng Chia University: Smart Chip and Sensor Applications**
 - **Feng Chia University: Simple AI Control and Design**
 - **SCAICT 2025 : "資難而上"**
