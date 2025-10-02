@@ -30,6 +30,7 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - **SCAICT 2025 : "資難而上"**
 - **AIS3 Club 2025**
 - **Faust Game Jam 2025**
+- **DayDream Taiwan**
 
 ### 🌐 Communities:
 - **5th SCAICT 中部高中電資社團聯合會議 —  President**
