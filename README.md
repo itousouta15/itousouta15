@@ -1,4 +1,4 @@
-# `cout << "hello! world";`
+# `cout<<"hello! world";`
 ## 👋 Hi, I'm Itou Souta!
 > *“The world goes quiet when I write code.”*  
 
