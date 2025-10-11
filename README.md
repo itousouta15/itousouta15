@@ -14,31 +14,6 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - 💡 Fascinated by the intersection of **code**, **security**, and **creativity**  
 - 📚 Passionate lifelong learner, always exploring new technical horizons  
 
-
-
-## 🎓 Experiences:
-
-### 🏆 Competitions:
-- **Scrapyard Taiwan Hackathon — 9th Place**
-- **APCS (first attempt was pretty miserable 🙃)**
-- **AIS3 Pre-exam 2025 — Rank 67**
-
-### 📚 Courses:
-- **AIS3 2025: Software, Web, and IoT Security - 1**
-- **Feng Chia University: Smart Chip and Sensor Applications**
-- **Feng Chia University: Simple AI Control and Design**
-- **SCAICT 2025 : "資難而上"**
-- **AIS3 Club 2025**
-- **Faust Game Jam 2025**
-- **DayDream Taiwan**
-
-### 🌐 Communities:
-- **5th SCAICT 中部高中電資社團聯合會議 —  President**
-- **2st DLHIT 大里高中資訊校隊 — President & Teaching Staff**
-- **3rd THJCC CTF — Network Administration**
-- **2nd SCINT 北臺灣學生資訊社群 — Media & Design**
-- **1st std_dllm — Media & Design**
-
 ## 🗓️ My Coding Roadmap
 - **2024**: Start C++, join first CTF
 - **2025**: Web security, launch blog, hackathon awards
@@ -58,13 +33,6 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - THJCC — (IG: @thjcc.tw)
 - stddllm — (IG: @std_dllm_)
 - DLHIT — (IG: @dlhit_)
-
-## 🎯 Goals for 2025
-- 🏆 Compete in more **programming contests** and **CTFs**  
-- 📖 Master advanced **C++ concepts** & design patterns  
-- 🌍 Launch a **trilingual tech blog** (Mandarin, English, Japanese)  
-- 🛡️ Contribute to **open-source cybersecurity tools**  
-- 🤝 Collaborate with like-minded developers and communities  
 
 ## 🤗 Open to Collaborate On
 - Security research (CTF/Web/AI X Security)
