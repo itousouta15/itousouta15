@@ -22,22 +22,12 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,ts,git,github,vscode,docker,unity,godot,linux)](https://skillicons.dev)
 
-## 💬 Philosophy
-> *“Every bug is a lesson.  
-> Every project is a story.  
-> The best way to learn is to build, break, and rebuild.”*
-
 ## Communities & Clubs
 - SCAICT — (https://scaict.org/)
 - SCINT — (https://scint.org/)
 - THJCC — (IG: @thjcc.tw)
 - stddllm — (IG: @std_dllm_)
 - DLHIT — (IG: @dlhit_)
-
-## Open to Collaborate On
-- Security research (CTF/Web/AI X Security)
-- Open source tools
-- Joint blog or tech talks (Mandarin/English)
 
 ## Connect
 - Blog: [GitHub Pages](https://itousouta15.tw) (My technical notes & learning journey)  
