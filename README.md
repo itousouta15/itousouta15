@@ -20,7 +20,6 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 - SCAICT — (https://scaict.org/)
 - SCINT — (https://scint.org/)
 - THJCC — (IG: @thjcc.tw)
-- stddllm — (IG: @std_dllm_)
 - DLHIT — (IG: @dlhit_)
 
 ## Connect
