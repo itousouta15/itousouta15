@@ -16,11 +16,6 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,ts,git,github,vscode,docker,unity,godot,linux)](https://skillicons.dev)
 
-## Communities & Clubs
-- SCAICT — (https://scaict.org/)
-- SCINT — (https://scint.org/)
-- THJCC — (IG: @thjcc.tw)
-- DLHIT — (IG: @dlhit_)
 
 ## Connect
 - Blog: [GitHub Pages](https://itousouta15.tw) (My technical notes & learning journey)  
