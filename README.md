@@ -18,7 +18,7 @@ Here, I share my projects, experiments, and learning notes. For me, every line o
 
 
 ## Connect
-- Blog: [GitHub Pages](https://itousouta15.tw) (My technical notes & learning journey)  
+- Blog: [itouBLoGa](https://blog.itousouta15.tw) (My technical notes & learning journey)  
 - Instagram: [itou.souta15](https://www.instagram.com/itou.souta15) (Life & creativity)  
 - Threads: [@itou.souta15](https://www.threads.net/@itou.souta15)  
 - Discord https://discord.gg/WD6gVTRQWA
