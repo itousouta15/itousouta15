@@ -1,4 +1,4 @@
-<img src="itouSouta.png" alt="LOGO" width="250">
+# itouSouta
 
 Developer ｜ Vocaloid-P ｜ Illustrator
 
