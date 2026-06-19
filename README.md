@@ -1,4 +1,4 @@
-# Itou Souta
+<img src="itouSouta.png" alt="LOGO" width="250">
 
 Developer ｜ Vocaloid-P ｜ Illustrator
 
