@@ -13,7 +13,6 @@ I enjoy building things that connect people and technology — from public trans
 * Cybersecurity
 * Web Development
 * Open Source
-* Public Transport Technology
 * Creative Coding
 
 ### Tech Toolbox 
