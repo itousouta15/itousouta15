@@ -6,6 +6,3 @@ Developer ｜ Vocaloid-P ｜ Illustrator
 
 ### Tech Toolbox 
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,ts,git,github,vscode,docker,unity,godot,linux)
-### Links
-
-[Blog](https://blog.itousouta15.tw) • [GitHub](https://github.com/itousouta15) • [Instagram](https://www.instagram.com/itou.souta15/) • [Telegram](https://t.me/itousouta15) • [X](https://x.com/itou_souta15) • [Discord](https://discord.gg/WD6gVTRQWA)
