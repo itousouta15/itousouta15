@@ -2,6 +2,8 @@
 
 Developer ｜ Vocaloid-P ｜ Illustrator
 
+U can Call me itouSouta / 伊藤蒼太 / 郭家睿
+
 > 情熱を失っては、何もできない。
 
 ### Tech Toolbox 
