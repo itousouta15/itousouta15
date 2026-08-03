@@ -16,4 +16,5 @@ U can Call me itouSouta / 伊藤蒼太 / 郭家睿
   <img src="https://streak-stats.demolab.com?user=itousouta15&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/itousouta15/itousouta15/trophy-output/trophy.svg?theme=nord&column=-1&row=1&margin-w=9&margin-h=16&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/itousouta15/itousouta15/activity-graph-output/activity-graph.svg?radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  
 </div>
