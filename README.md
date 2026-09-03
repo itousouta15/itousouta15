@@ -12,8 +12,5 @@ U can Call me itouSouta / 伊藤蒼太 / 郭家睿
 ![github snake](https://itousouta.me/assets/social/github-user-contribution-dark.svg)
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/itousouta15/itousouta15/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/itousouta15/itousouta15/trophy-output/trophy.svg?theme=nord&column=-1&row=1&margin-w=9&margin-h=16&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/itousouta15/itousouta15/activity-graph-output/activity-graph.svg?radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-  
 </div>
