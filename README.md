@@ -1,16 +1,35 @@
-# itouSouta
+<h1 align="center">itouSouta</h1>
 
-Developer ｜ Vocaloid-P ｜ Illustrator
+<p align="center">
+  <strong>Developer · Vocaloid-P · Illustrator</strong><br />
+  伊藤蒼太 · 郭家睿
+</p>
 
-U can Call me itouSouta / 伊藤蒼太 / 郭家睿
+<p align="center"><em>情熱を失っては、何もできない。</em></p>
 
-> 情熱を失っては、何もできない。
+<p align="center">
+  <a href="https://itousouta.me">Website</a> ·
+  <a href="https://github.com/itousouta15">GitHub</a>
+</p>
 
-### Tech Toolbox 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,ts,git,github,vscode,docker,unity,godot,linux)
+---
 
-![github snake](https://itousouta.me/assets/social/github-user-contribution-dark.svg)
+<h3 align="center">Tech Toolbox</h3>
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/itousouta15/itousouta15/trophy-output/trophy.svg?theme=nord&column=-1&row=1&margin-w=9&margin-h=16&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
+<p align="center"><strong>Languages & Web</strong></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,ts&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,js,ts&amp;theme=light" alt="C, C++, C#, Python, HTML, CSS, JavaScript, TypeScript" />
+  </picture>
+</p>
+
+<p align="center"><strong>Tools & Creative</strong></p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,docker,unity,godot,linux&amp;theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,unity,godot,linux&amp;theme=light" alt="Git, GitHub, VS Code, Docker, Unity, Godot, Linux" />
+  </picture>
+</p>
